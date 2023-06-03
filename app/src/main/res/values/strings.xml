@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name"> Project Akhir</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="Artikelsatu">     Premier League adalah liga sepak bola terkenal di Inggris yang didirikan pada tahun 1992. Dengan klub-klub seperti Manchester United, Liverpool, Chelsea, Arsenal, dan Manchester City, liga ini telah menjadi yang terbaik dan paling populer di dunia. Premier League menawarkan pertandingan menarik dan ketegangan yang tak terlupakan dengan 20 klub peserta yang bersaing untuk gelar juara setiap musimnya.</string>
+
+    <string name="Artikeldua"> LaLiga, atau disebut juga Liga Spanyol, adalah liga sepak bola terkemuka di Spanyol yang menarik perhatian penggemar olahraga di seluruh dunia. Dikenal dengan gaya permainan yang elegan dan teknis, LaLiga telah menciptakan sejarah panjang dalam dunia sepak bola.
+        
+Didirikan pada tahun 1929, LaLiga telah menjadi tempat bagi beberapa klub terbaik di dunia, seperti Barcelona, Real Madrid, Atletico Madrid, dan Sevilla. Setiap musimnya, para klub ini berkompetisi untuk merebut gelar juara LaLiga, menciptakan persaingan yang sengit dan menarik</string>
+
+
+    <string-array name="item_option">
+        <item>Ubah</item>
+        <item>Hapus</item>
+        <item>batal</item>
+    </string-array>
+
+
+</resources>
